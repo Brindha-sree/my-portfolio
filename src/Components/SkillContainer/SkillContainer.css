@@ -1,0 +1,48 @@
+
+
+.skill{
+   text-align: center;
+   color:white;
+   
+   
+   
+} 
+
+.skillContainer{
+       display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:20px 0 ;
+    /* margin-bottom: 150px; */
+     /* margin-top: 100px; 
+     */
+
+}
+
+.skillcontainer_text{
+   
+    color:white;
+    flex: 0.6;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom:20px ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* border: 1px solid red; */
+    padding: 20px;
+}
+
+.skillcontainer_text > h2{
+    font-size: 40px;
+}
+
+.skillcontainer_image > img{
+    flex:0.4;
+    height:400px;
+    margin-right: 100px;
+    border-radius: 3px;
+    object-fit: contain;
+}
+
+.skillcaontainer_skillset > h4{
+  font-family: sans-serif;
+}

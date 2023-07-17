@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Crimson+Text:ital@1&family=IM+Fell+Great+Primer&family=Libre+Caslon+Text&family=Lugrasimo&family=Playfair+Display&family=Source+Serif+4:ital,wght@1,600&display=swap');
+
+.contact-container{
+    color:white;
+    text-align: center;
+    border:solid 1px rgb(240, 137, 137);
+    width: 400px;
+    height:350px;
+ font-size: 20px;
+  padding: 50px;
+  margin-left: 550PX;
+  margin-bottom: 200px;
+  font-family:' Crimson+Text';
+    
+    
+}
+
+.con{
+    color: white;
+    text-align: center;
+    margin-top: 500PX;
+    ;
+
+
+}
+
+.conn{
+    color: rgb(222, 132, 132);
+}
